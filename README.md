@@ -1,7 +1,9 @@
 mresearch
 =========
 
-market research
-
-
 git을 활용한 마케팅 리서치 효율화 프로젝트
+
+1. 업무 환경 구축하기
+2. work flow 짜기
+3. 연습하기
+4. 공유하기
